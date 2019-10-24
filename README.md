@@ -3,4 +3,5 @@
 <br>
 <h2>Telegram Bot: @TheFortuneTellerBot</h2>
 <br>
-![Chat Test](https://github.com/JackRossProjects/Fortune-Teller-Chat-Bot/blob/master/test.png)
+
+![](https://github.com/JackRossProjects/Fortune-Teller-Chat-Bot/blob/master/test.png)
